@@ -41,8 +41,7 @@ This guide contains links and filters using placeholders. Please replace the pla
 
 ## Deciding on the release date
 Decide upon the exact date for the release day. How to find the release day:
-* it is always a Friday, except if the Friday is a holiday, then it's the day before (Thursday) and so on.
-* take the last day of the month and find the Friday that is "closest" to that date. Closest means that you have to count the number of days from the last day of the month to the previous/next Friday.
+* It is always the second Tuesday of the month. If this is a holiday, then confirm with Product.
 * Ask the optimize (slack: `@optimize-release-manager`), modeler (slack: `@modeling-release-manager`) and infrastructure (slack: `#infra`) teams if they want to participate in the release presentation. Share a google docs presentation with them in case they want to participate.
 
 
