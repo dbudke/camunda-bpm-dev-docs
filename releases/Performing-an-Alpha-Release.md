@@ -81,7 +81,7 @@ git checkout -b 7.9.0-alpha3
 
 #### 2. Create a markdown file and push it to the repo.
 
-The filename must follow the format `camunda-bpm-<release-version-short>-released.md` and must be located in `/content/post/<year>/<month>/`. (e.g. `camunda-bpm-790-aplha3-released.md`, `camunda-bpm-7120-alpha5-released.md`)
+The filename must follow the format `camunda-bpm-runtime-<release-version-short>-released.md` and must be located in `/content/post/<year>/<month>/`. (e.g. `camunda-bpm-runtime-7140-aplha3-released.md`)
 It should contain an introduction (feature overview, release notes, download encouragement) and conclusion (feedback encouragement, outlook). You can use the blogpost of the last alpha release as a blueprint.
 
 ```
