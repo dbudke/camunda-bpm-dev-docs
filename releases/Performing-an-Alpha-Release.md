@@ -56,7 +56,7 @@ The release presentation is done remotely via Zoom. Create a Zoom meeting for th
 > Audience: camundabpm@camunda.com
 
 ## **Code Freeze**
-> 🕔  in the evening of the day before the build will take place until its end. If the release presentation is on Friday, the code freeze can be scheduled for Wednesday evening.
+> 🕔  in the evening of the day before the build will take place until its end. If the release presentation is on Tuesday, the code freeze can be scheduled for Friday evening.
 > Audience: camundabpm@camunda.com
 
 ## **Build release**
