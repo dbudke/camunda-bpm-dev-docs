@@ -47,7 +47,7 @@ Decide upon the exact date for the release day. How to find the release day:
 
 ## **Release presentation**
 The release presentation is done remotely via Zoom. Create a Zoom meeting for the presentation. Ask Backoffice for a pro account.
-> 🕔 set a reminder on that date for the release presentation (~3 pm). Include the Zoom link in the invitation. Audience: alle@camunda.com. Location: none
+> 🕔 set a reminder on that date for the release presentation (11 am). Include the Zoom link in the invitation. Audience: alle@camunda.com. Location: none
 
 > 🕔 book a room for the team where we can hold the presentation. Audience: camundabpm@camunda.com Location: Any room with enough space.
 
