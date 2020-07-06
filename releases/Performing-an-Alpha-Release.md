@@ -42,7 +42,7 @@ This guide contains links and filters using placeholders. Please replace the pla
 ## Deciding on the release date
 Decide upon the exact date for the release day. How to find the release day:
 * It is always the second Tuesday of the month. If this is a holiday, then confirm with Product.
-* Ask the optimize (slack: `@optimize-release-manager`), cawemo (slack: `@cawemo-captain-on-premise`), modeler (slack: `@modeling-release-manager`) and infrastructure (slack: `#infra`) teams if they want to participate in the release presentation. Share a google docs presentation with them in case they want to participate.
+* Ask the optimize (slack: `@optimize-release-manager`), modeler (slack: `@modeling-release-manager`) and infrastructure (slack: `#infra`) teams if they want to participate in the release presentation. Share a google docs presentation with them in case they want to participate.
 
 
 ## **Release presentation**
